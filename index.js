@@ -1,5 +1,5 @@
 function getValue () {
-  return 'module-a-master'
+  return 'module-a-master-V2'
 }
 
 module.exports = {
